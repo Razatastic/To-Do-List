@@ -4,17 +4,11 @@ A small to-do list program made while learning Electron.
 ## Installation
 
 ```sh
-// with npm
+# NPM
 npm install
-
-// with yarn
-yarn install
-```
-
-```sh
-// with npm
 npm start
 
-// with yarn
+#Yarn
+yarn install
 yarn start
 ```
