@@ -3,12 +3,13 @@ A small to-do list program made while learning Electron.
 
 ## Installation
 
+### NPM
 ```sh
-# NPM
 npm install
 npm start
-
-#Yarn
+```
+### Yarn
+```sh
 yarn install
 yarn start
 ```
