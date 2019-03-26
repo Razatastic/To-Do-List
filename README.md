@@ -1,6 +1,8 @@
 # To-Do-List
 A small to-do list program made with Electron.
 
+![](todolist.gif)
+
 ## Installation
 
 ### NPM
@@ -8,5 +10,3 @@ A small to-do list program made with Electron.
 npm install
 npm start
 ```
-
-![](todolist.gif)
