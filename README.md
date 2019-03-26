@@ -8,12 +8,6 @@ A small to-do list program made with Electron.
 npm install
 npm start
 ```
-### Yarn
-```sh
-yarn install
-yarn start
-```
 
 ## Screenshots
-
-Coming soon.
+![](todolist.gif)
