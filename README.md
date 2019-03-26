@@ -9,5 +9,4 @@ npm install
 npm start
 ```
 
-## Screenshots
 ![](todolist.gif)
