@@ -1,6 +1,7 @@
 {
   "name": "to-do_list",
   "version": "1.0.0",
+  "repository": "https://github.com/razatastic/to-do-list",
   "description": "A simple to-do list program.",
   "main": "main.js",
   "scripts": {
