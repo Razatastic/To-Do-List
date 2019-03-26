@@ -1,5 +1,5 @@
 # To-Do-List
-A small to-do list program made with Electron.
+A small to-do list program made with [Electron](https://electronjs.org/).
 
 ![](todolist.gif)
 
